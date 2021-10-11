@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NumberGuesingGame</string>
+    <string name="enter_the_number_to_guess_beween_0_to_99">enter the number to guess beween 0 to 99</string>
+</resources>
